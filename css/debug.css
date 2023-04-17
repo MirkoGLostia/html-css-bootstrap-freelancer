@@ -1,0 +1,58 @@
+/* general */
+
+
+
+
+
+
+
+
+
+
+
+/* debug */
+
+
+.square-r {
+    height: 100px;
+    min-width: 100px;
+    padding: 20px;
+    background-color: red;
+}
+
+.square-b {
+    height: 100px;
+    min-width: 100px;
+    padding: 20px;
+    background-color: blue;
+}
+
+.square-g {
+    height: 100px;
+    min-width: 100px;
+    padding: 20px;
+    background-color: green;
+}
+
+.bk-r {
+    background-color: red;
+}
+
+.bk-b {
+    background-color: blue;
+}
+
+.bk-g {
+    background-color: green;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+
+/* flex debug */
+
+.align-center {
+    align-self: center;
+}
