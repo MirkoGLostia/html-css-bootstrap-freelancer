@@ -12,6 +12,10 @@
 
 /* debug */
 
+* {
+    border: solid black 2px;
+}
+
 
 .square-r {
     height: 100px;
