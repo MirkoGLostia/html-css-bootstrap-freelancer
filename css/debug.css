@@ -1,4 +1,27 @@
-/* general */
+/* NAV */
+
+#navigator-container-ms {
+    background-color: #2c3e50;
+}
+
+header .navbar-brand, header .navbar-brand:hover {
+    color: white;
+    font-weight: 600;
+}
+
+header .navbar-toggler {
+    color: #888888;
+    border: #dddddd;
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12,9 +35,9 @@
 
 /* debug */
 
-* {
+/* * {
     border: solid black 2px;
-}
+} */
 
 
 .square-r {
